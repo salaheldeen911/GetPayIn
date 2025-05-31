@@ -113,7 +113,7 @@ Run publish queue:
 php artisan posts:process-scheduled
 ```
 
-Run scheduler:
+Run scheduler (cron job):
 ```bash
 php artisan schedule:run
 ```
